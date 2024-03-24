@@ -1,5 +1,7 @@
 # Bang!
 This is Bang! - terminal version for one person
+Computer Programming Final Proect
+Collaborate with 李ＯＯ and 黃ＯＯ
 
 ### Introduction
 Bang! is a card game set in the Wild West, designed by Italian game designer Emiliano Sciarra in 2002. It is a fast-paced and interactive game that is widely considered to be a classic party game. This project will develop a simplified version of Bang! that allows you to play against the computer even when you are home alone, so you can enjoy the excitement and fun of the game by yourself.
