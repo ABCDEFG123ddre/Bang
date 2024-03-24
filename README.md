@@ -1,7 +1,7 @@
 # Bang!
 This is Bang! - terminal version for one person
 
-Computer Programming Final Project
+Final Project: Computer Programming Course
 
 Collaborate with 李ＯＯ and 黃ＯＯ
 
