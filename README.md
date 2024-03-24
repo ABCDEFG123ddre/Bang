@@ -59,9 +59,11 @@ Bang! is a card game set in the Wild West, designed by Italian game designer Emi
 - Outlaw
 
 ### How to Play
-- Choose the number of players: how many computer players do you want to play with (4 to 7)
+- Choose the number of players
+- You are always Player 0
 - All your cards will be displayed on the terminal, enter the number besides the card to play that card
-- You can ALWAYS jump to help section during the game
+- You can ALWAYS jump to the help section during the game
+- The top of the terminal shows the status of each player during the game
 - Follow the rules and Enjoy!
 
 ### About Computer Players
