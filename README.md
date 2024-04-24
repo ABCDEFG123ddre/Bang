@@ -1,5 +1,5 @@
 # Bang!
-This is Bang! - terminal version for one person
+This is Bang! - single person terminal version
 
 Collaborate with 李ＯＯ and 黃ＯＯ
 
